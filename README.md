@@ -1,26 +1,26 @@
 #  HUMAN SQL 
-**Human SQl** Es una libreria que está siendo construida para transformar las consultas a bases de datos principalmente SQL a consultas totalmente humanizadas desde un inicio trayendo consigo la nueva generación de escribrir código y simplicidad para los estudiantes y principiantes.
+**Human SQL** is a library being built to transform database queries, primarily SQL, into fully humanized queries from the start, bringing with it a new generation of coding and simplicity for students and beginners.
 
 ---
 
-## 🚀 Tecnologías Donde puedes incluir la libreria
-- C# 
+## 🚀 Technologies Where you can include the library
+- C# .NET
 
 ---
 
 ## 🚀 Enlaces de información
 - Wiki: https://zadints.gitbook.io/zadints-human-sql
-- Repositorio Zadints: none_link
-- Zadints Oficial none_link
+- Zadints Repository: none_link
+- Zadints Page: none_link
 ---
 
-## 📺Estado de desarrollo
-Este proyecto se encuentra actualmente en fase de desarrollo activo. La libreria va en constante evolución buscando el máximo opotencial y simplicidad.
+## 📺Development Status
+This project is currently under active development. The library is constantly evolving, striving for maximum potential and simplicity.
 
 ---
 
 ❤️ Installation
-- Descarga la última versión o la que sea compatible con tu proyecto mediante Github o nuestro repositorio Zadints e instálalo manualmente en tu proyecto.
+- Download the latest version or the one compatible with your project from GitHub or our Zadints repository and install it manually in your project. More information is available on the wiki: https://zadints.gitbook.io/zadints-human-sql
 
 
 
