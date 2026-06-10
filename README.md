@@ -1,12 +1,17 @@
 #  HUMAN SQL 
-**Human SQl** Es una libreria quue está siendo construida para evitar escribir código verboso para consultas de bases de datos reduciendo su complejidad y mejor aun siendo totalmente humanizada desde un inicio trayendo consigo la nueva generación de consultas para SQl,MySQL, Mongo, etc.
+**Human SQl** Es una libreria que está siendo construida para transformar las consultas a bases de datos principalmente SQL a consultas totalmente humanizadas desde un inicio trayendo consigo la nueva generación de escribrir código y simplicidad para los estudiantes y principiantes.
 
 ---
 
-## 🚀 Tecnologías Compatibles Por Ahora
+## 🚀 Tecnologías Donde puedes incluir la libreria
 - C# 
 
+---
 
+## 🚀 Enlaces de información
+- Wiki: https://zadints.gitbook.io/zadints-human-sql
+- Repositorio Zadints: none_link
+- Zadints Oficial none_link
 ---
 
 ## 📺Estado de desarrollo
