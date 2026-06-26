@@ -10,6 +10,7 @@
 
 ## 🚀 Enlaces de información
 - Wiki: https://zadints.gitbook.io/zadints-human-sql
+- Nuget: https://www.nuget.org/packages/HumanSql/
 - Zadints Repository: none_link
 - Zadints Page: zadints.com
 ---
@@ -21,5 +22,10 @@ This project is currently under active development. The library is constantly ev
 
 ❤️ Installation
 - Download the latest version—or the one compatible with your project—from GitHub or directly from NuGet, and install it in your project. You can find more information on the wiki: https://zadints.gitbook.io/zadints-human-sql
+
+- cmd:
+´´´
+dotnet add package HumanSql --version 13.3.7
+´´´´
 
 
